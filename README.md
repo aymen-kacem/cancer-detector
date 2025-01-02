@@ -74,6 +74,12 @@ Integrate deep learning models for improved accuracy 🧠
 
 Enable deployment of the model using Flask/Django 🌐
 
+Reach out to us:
+
+📩 Email: aymenkacem2019@gmail.com
+
+💻 GitHub: aymen-kacem
+
 
 Contributing 🙌
 
