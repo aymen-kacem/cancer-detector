@@ -74,6 +74,9 @@ Integrate deep learning models for improved accuracy 🧠
 
 Enable deployment of the model using Flask/Django 🌐
 
+
 Contributing 🙌
 
 We welcome contributions! Feel free to submit issues or pull requests to improve this project. For significant changes, please discuss them in an issue first. 🤝
+
+
